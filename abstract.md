@@ -1,4 +1,4 @@
-Algorithmic Expression and Security Hardening of a PQC-Hardened Authenticated Encrypted Transport Protocol (PQC-AET)
+Algorithmic Expression and Security Hardening of the PQE Protocol JKPQ: Mark 2 - PQC-Hardened Authenticated Encrypted Transport Protocol (Mark2 PQC-AET)
 
 Section I: PQC-AET Protocol: Foundational Abstraction and Security Objectives
 
